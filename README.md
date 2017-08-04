@@ -2,10 +2,10 @@
 Roadmap / guide / starting points to undestanding and making great things with React.
 
 # Motivation
-There are a lot of great tutorials/courses/articles/collections of articles which can study you React, and show how to make great things with it. But as newbie to React ecosystem, it's hard to find where to start and what you need. So I believe, it will be a basement for your discoveries in the React's world.
+There are a lot of great tutorials/courses/articles/collections of articles which can help you study React, and show how to make great things with it. But as a newbie to React ecosystem, it's hard to find where to start and what you need. So I believe, it will be a good basement for your discoveries in the React's world.
 
 # Discover tree
-Before read futher I recommend to look into this [How-To](https://github.com/petehunt/react-howto). You can find stages of studing React there. In current guide you will find more detailizations, recommendations and what to read.
+Before reading futher I recommend to look into this [How-To](https://github.com/petehunt/react-howto). You can find stages of studying React there. In current guide you will find more detailizations, recommendations and what to read.
 * React itself
   * Good start is to look through Facebook's original [Tutorial](https://facebook.github.io/react/tutorial/tutorial.html#overview) and [Docs](https://facebook.github.io/react/docs/hello-world.html) (they are really great and contain important basics)
   * To test some features step by step you can on [Buildwithreact](http://buildwithreact.com/tutorial)
