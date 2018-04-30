@@ -9,6 +9,7 @@ Before reading futher I recommend to look into this [How-To](https://github.com/
 * React itself
   * Good start is to look through Facebook's original [Tutorial](https://facebook.github.io/react/tutorial/tutorial.html#overview) and [Docs](https://facebook.github.io/react/docs/hello-world.html) (they are really great and contain important basics)
   * To test some features step by step you can on [Buildwithreact](http://buildwithreact.com/tutorial) or use [Codesandbox](https://codesandbox.io)
+  * [React in patterns](https://krasimir.gitbooks.io/react-in-patterns/content/) this online-book covers main things you have to undestand with code samples.
 * Redux
   * Redux itself:
     * [Redux](http://redux.js.org/) docs
